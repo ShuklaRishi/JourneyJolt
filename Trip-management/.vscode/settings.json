@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./trip_management/trip_management"
+    ]
+}
